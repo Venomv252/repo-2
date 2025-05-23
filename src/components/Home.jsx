@@ -21,10 +21,11 @@ const Home = () => {
         <h2 className="section-title">Why Choose EduConnect?</h2>
         <div className="feature-grid">
           <div className="feature-card">
+            <a href="https://chatbot-qd1n.onrender.com/">
             <div className="feature-icon">⚡</div>
             <h3>Instant Learning Support</h3>
             <p>Get real-time explanations and answers to all your academic questions.</p>
-          </div>
+            </a> </div>
           <div className="feature-card">
             <div className="feature-icon">🎯</div>
             <h3>Personalized Paths</h3>
