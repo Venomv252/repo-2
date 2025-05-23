@@ -31,10 +31,10 @@ const Home = () => {
             <p>Learning journeys tailored to your strengths and weaknesses.</p>
           </div>
           <div className="feature-card">
-            <div className="feature-icon">📈</div>
+            <a href="https://repo-five-ivory.vercel.app/"><div className="feature-icon">📈</div>
             <h3>Project- Based Learning</h3>
             <p>Visualize your improvement with detailed analytics and reports.</p>
-          </div>
+            </a></div>
         </div>
       </section>
 

@@ -136,7 +136,12 @@
   margin-bottom: 1rem;
   font-size: 1.5rem;
 }
-
+.feature-card a{
+  text-decoration: none;
+}
+.feature-card a:hover{
+  text-decoration: none;
+}
 .feature-card p {
   color: #7f8c8d;
   line-height: 1.6;
