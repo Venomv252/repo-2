@@ -1,7 +1,7 @@
 // src/components/Profile/Profile.jsx
 import React, { useState } from 'react';
 import { useNavigate } from 'react-router-dom';
-import './Profile.css';
+import './profile.css';
 
 const Profile = ({ user, onLogout }) => {
   const [activeTab, setActiveTab] = useState('overview');
