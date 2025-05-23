@@ -32,7 +32,7 @@ const Home = () => {
           </div>
           <div className="feature-card">
             <div className="feature-icon">📈</div>
-            <h3>Progress Tracking</h3>
+            <h3>Project- Based Learning</h3>
             <p>Visualize your improvement with detailed analytics and reports.</p>
           </div>
         </div>
