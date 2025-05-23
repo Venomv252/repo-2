@@ -1,11 +1,11 @@
 import React, { useState } from 'react';
 import { BrowserRouter as Router, Routes, Route, Navigate, Link } from 'react-router-dom';
 import './App.css';
-import Home from './components/home';
-import Leaderboard from './components/leaderboard';
-import AuthPage from './components/auth/auth';
-import Profile from './components/Profile/profile';
-import WorkforceDashboard from './workforce/dashboard/dashboard';
+import Home from './components/Home.jsx';
+import Leaderboard from './components/Leaderboard.jsx';
+import AuthPage from './components/auth/auth.jsx';
+import Profile from './components/Profile/profile.jsx';
+import WorkforceDashboard from './workforce/dashboard/dashboard.jsx';
 
 function App() {
   const [isAuthenticated, setIsAuthenticated] = useState(false);
